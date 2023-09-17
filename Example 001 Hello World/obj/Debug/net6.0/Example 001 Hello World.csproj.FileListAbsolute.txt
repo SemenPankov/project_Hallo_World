@@ -1,0 +1,15 @@
+C:\Users\Семен\Desktop\project C#\Example 001 Hello World\bin\Debug\net6.0\Example 001 Hello World.exe
+C:\Users\Семен\Desktop\project C#\Example 001 Hello World\bin\Debug\net6.0\Example 001 Hello World.deps.json
+C:\Users\Семен\Desktop\project C#\Example 001 Hello World\bin\Debug\net6.0\Example 001 Hello World.runtimeconfig.json
+C:\Users\Семен\Desktop\project C#\Example 001 Hello World\bin\Debug\net6.0\Example 001 Hello World.dll
+C:\Users\Семен\Desktop\project C#\Example 001 Hello World\bin\Debug\net6.0\Example 001 Hello World.pdb
+C:\Users\Семен\Desktop\project C#\Example 001 Hello World\obj\Debug\net6.0\Example 001 Hello World.csproj.AssemblyReference.cache
+C:\Users\Семен\Desktop\project C#\Example 001 Hello World\obj\Debug\net6.0\Example 001 Hello World.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Семен\Desktop\project C#\Example 001 Hello World\obj\Debug\net6.0\Example 001 Hello World.AssemblyInfoInputs.cache
+C:\Users\Семен\Desktop\project C#\Example 001 Hello World\obj\Debug\net6.0\Example 001 Hello World.AssemblyInfo.cs
+C:\Users\Семен\Desktop\project C#\Example 001 Hello World\obj\Debug\net6.0\Example 001 Hello World.csproj.CoreCompileInputs.cache
+C:\Users\Семен\Desktop\project C#\Example 001 Hello World\obj\Debug\net6.0\Example 001 Hello World.dll
+C:\Users\Семен\Desktop\project C#\Example 001 Hello World\obj\Debug\net6.0\refint\Example 001 Hello World.dll
+C:\Users\Семен\Desktop\project C#\Example 001 Hello World\obj\Debug\net6.0\Example 001 Hello World.pdb
+C:\Users\Семен\Desktop\project C#\Example 001 Hello World\obj\Debug\net6.0\Example 001 Hello World.genruntimeconfig.cache
+C:\Users\Семен\Desktop\project C#\Example 001 Hello World\obj\Debug\net6.0\ref\Example 001 Hello World.dll
